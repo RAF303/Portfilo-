@@ -4208,11 +4208,11 @@ div:hover>h3>.icon-header {
     text-align: center
 }
 
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
     .portfolio .portfolio-nav {
-        width: 28rem
+        width: 21rem
     }
-}
+} */
 
 .portfolio .portfolio-nav li {
     border: 1px solid #3498db;
